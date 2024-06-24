@@ -45,12 +45,12 @@ return [
 
         'oracle' => [
             'driver' => 'oracle',
-            'host' => '172.30.0.45',
+            'host' => '172.30.0.0',
             'port' => '1521',
             'database' => 'TEST_NEW',
             'service_name' => 'FAR23DB',
-            'username' => 'SHAHIDUL',
-            'password' => 'SHAHIDUL',
+            'username' => '',
+            'password' => '',
             'charset' => 'utf8',
             'prefix' => '',
         ],
